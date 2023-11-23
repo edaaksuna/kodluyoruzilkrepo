@@ -24,3 +24,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 [MIT](http://google.com)
+
+# Proje Görsel 
+![Görsel](https://edaaksuna.com.tr/wp-content/uploads/2020/05/pwa_192x192-100x100.png)
+
+
